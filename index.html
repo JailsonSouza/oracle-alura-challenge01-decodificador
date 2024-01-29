@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Oracle + Alura - Decodificador</title>
+    <link rel="stylesheet" href="./assets/styles/style.css">
+</head>
+<body>
+    <main class="main">
+        <section class="main__section">
+            <header class="main__section__header">
+                <a href="index.html"><img src="./assets/images/logo.svg" alt="logo"></a>
+            </header>
+            <div class="main__section__textarea">
+                <textarea class="main__section__textarea__box" placeholder="Digite seu texto" name=""></textarea>
+            </div>
+            <div class="main__section__alert">
+                <img src="./assets/images/icon-alert.svg" alt="icon-alert">
+                <span>Apenas letras minúsculas e sem acento.</span>
+            </div>
+            <div class="main__section__buttons">
+                <a class="main__section__buttons__button__criptografar" onclick="criptografar()">Criptografar</a>
+                <a class="main__section__buttons__button__descriptografar" onclick="descriptografar()">Descriptografar</a>
+            </div>
+        </section>
+        <aside class="main__aside">
+            <img class="main__aside__image" src="./assets/images/image-left.svg" alt="man">
+            <h2 class="main__aside__image__text">Nenhuma mensagem encontrada</h2>
+            <p class="main__aside__image__text__description">Digite um texto que você deseja criptografar ou descriptografar</p>
+        </aside>
+    </main>
+    <script src="./assets/scripts/enginer.js" defer></script>
+</body>
+</html>
