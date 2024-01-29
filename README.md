@@ -1,4 +1,4 @@
-### 🚀🧑‍💻Challege#01 da Formação Iniciante em Programação T6 - ONE.  
+## 🚀🧑‍💻Challege#01 da Formação Iniciante em Programação T6 - ONE.  
 <main style="text-align: justify">
 Dando uma breve introdução sobre o desafio, o Challenge ONE Iniciante em Programação, consite em criar decodificador de texto com Javascript. DETALHES DESTE PROJETO:
 
