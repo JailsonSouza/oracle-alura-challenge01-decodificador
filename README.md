@@ -1,5 +1,5 @@
-##🚀🧑‍💻Challege#01 da Formação Iniciante em Programação T6 - ONE.  
-<div style="text-align: justify">
+### 🚀🧑‍💻Challege#01 da Formação Iniciante em Programação T6 - ONE.  
+<main style="text-align: justify">
 Dando uma breve introdução sobre o desafio, o Challenge ONE Iniciante em Programação, consite em criar decodificador de texto com Javascript. DETALHES DESTE PROJETO:
 
 - <a href="https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one" title="trello-projeto">Trello</a>
@@ -14,10 +14,10 @@ Dando uma breve introdução sobre o desafio, o Challenge ONE Iniciante em Progr
   <img align="center" alt="Jailson-Js" height="70" width="80" src="./assets/images/javascript.png">
 </div>
 
-###😄💻Um registro do ambiente de desenvolvimento  
+## 😄💻Um registro do ambiente de desenvolvimento  
 <img src="./assets/images/challege-oracle+alura.jpeg" alt="Imagem do desenvolvimento do projeto" height="250px">
 
-###📝✅Principais features do projeto
+## 📝✅Principais features do projeto
 O projeto está entre aspas finalizado, pórem está aberto a receber novas dicas de funcionalidades, revisão e melhoria do código:
 
 - [x] Criptografar texto (criptografia de cesar)
@@ -25,7 +25,7 @@ O projeto está entre aspas finalizado, pórem está aberto a receber novas dica
 - [x] Copiar o texto criptografado
 
 
-##⚡🤖 Sobre minha versão do desafio
+## ⚡🤖 Sobre minha versão do desafio
 
 Durante todo o projeto, o campo de texto estará disponível. Inicialmente, o botão "Criptografar" estará habilitado para clicar, enquanto o botão "Descriptografar" estará desabilitado. Após inserir uma palavra ou texto e clicar em "Criptografar", o botão "Criptografar" se tornará desabilitado, enquanto o botão "Descriptografar" se tornará habilitado. Existem duas formas de descriptografar o texto: a primeira é clicar no botão "Copiar" para copiar o texto criptografado e, em seguida, clicar no botão "Descriptografar"; a segunda é digitar a mensagem desejada na caixa de texto e clicar em "Descriptografar". Após clicar em "Descriptografar", o botão "Criptografar" se tornará habilitado novamente, enquanto o botão "Descriptografar" voltará a ficar desabilitado.
 
@@ -42,7 +42,7 @@ Para desabilitar:
 pointer-events: none;
 ```
 
-##💭🔣 Método de Criptografia: Criptografia de Cesar
+## 💭🔣 Método de Criptografia: Criptografia de Cesar
 Para usar <nome_do_projeto>, siga estas etapas:
 A criptografia de César é um método de criptografia clássico no qual cada letra em um texto é substituída por outra letra, deslocando o alfabeto por um número fixo de posições.
 Por exemplo, com um deslocamento de três posições, "A" seria substituído por "D", "B" por "E" e assim por diante.
@@ -56,7 +56,7 @@ A descriptografia na criptografia de César envolve o inverso do processo de cri
 ```
 Ex: mdlovrq >>> jailson
 ```
-##🖥️💻📱 Projeto web Responsivo aos diversos tipos de tela
+## 🖥️💻📱 Projeto web Responsivo aos diversos tipos de tela
 
 Para tornar esse projeto responsivo, utilizei as medias queries css:
 
@@ -71,7 +71,7 @@ Para tornar esse projeto responsivo, utilizei as medias queries css:
 As media queries em CSS são uma ferramenta poderosa que permite aos desenvolvedores web aplicar estilos específicos com base nas características do dispositivo, como largura da tela, altura da tela, orientação e resolução. Elas são fundamentais para criar layouts responsivos que se adaptem automaticamente a diferentes dispositivos e tamanhos de tela.
 Para saber mais, consulte a documentação das medias queries css em  [Usando Media Queries - CSS | MDN - MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries).
 
-##🧑‍💻🤝 Desenvolvedor(es)
+## 🧑‍💻🤝 Desenvolvedor(es)
 
 Abaixo as pessoas que contribuíram para este projeto:
 
@@ -88,7 +88,7 @@ Abaixo as pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-##🚩😄 Sinta-se a vontade para contribuir com o projeto
+## 🚩😄 Sinta-se a vontade para contribuir com o projeto
 
 Crie um fork do projeto e detalhes as contribuições feitas.
-</div>
+</main>
