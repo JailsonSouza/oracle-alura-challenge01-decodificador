@@ -5,6 +5,7 @@ Dando uma breve introdução sobre o desafio, o Challenge ONE Iniciante em Progr
 - <a href="https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one" title="trello-projeto">Trello</a>
 - <a href="https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?type=design&node-id=16-802&mode=design&t=KH8gGgX5cptcFAHz-0" title="figma-projeto">Modelo Figma</a>
 - <a href="https://cursos.alura.com.br/extra/alura-mais/como-front-end-utiliza-o-figma-c858" title="alura+-projeto">Alura+: Como um(a) desenvolvedor(a) front-end utiliza o Figma</a>
+<img align="center" alt="Jailson-HTML" src="./assets/images/projeto-web-decodificador-de-palavras.png">
 
 > Este desafio proposto foi uma ótima forma, de por em prática todo o contéudo revisado e absorvido, trabalhado durante a formação front-end.
 
